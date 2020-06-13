@@ -11,7 +11,7 @@
 
 
 **Steps to install**:
-*  git clone git@gitlab.com:hmule20/server.git
+*  git clone git@github.com:HarshMule20/boiler_plate-for-django.git
 *  pip install virtualenv venv_name
 *  Activate the environment:
     *  for (linux): source venv_name\bin\activate
