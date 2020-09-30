@@ -19,6 +19,6 @@
 *  cd generalized-django-server
 *  pip install -r requirements.txt
 *  python manage.py migrate
-*  python manage runserver
+*  python manage.py runserver
 
 ***Note***: Add a .env file
