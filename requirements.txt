@@ -3,7 +3,7 @@ cffi==1.14.0
 cryptography==39.0.1
 Django==3.1.14
 djangorestframework==3.11.0
-jwcrypto==0.6.0
+jwcrypto==1.4
 psycopg2==2.8.4
 pycparser==2.19
 PyJWT==2.4.0
